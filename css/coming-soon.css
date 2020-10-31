@@ -40,7 +40,8 @@ video {
 
 @media (pointer: coarse) and (hover: none) {
   body {
-    background: url("../img/bg-mobile-fallback.jpg") #002E66 no-repeat center center scroll;
+    /* background: url("../img/bg-mobile-fallback.jpg") #002E66 no-repeat center center scroll; */
+    background: url("../img/redseacrons_logo.jpg") #002E66 no-repeat center center scroll;
     background-size: cover;
   }
   body video {
@@ -54,7 +55,8 @@ video {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: #cd9557;
+  /* background-color: ##F26269; */
+  background-color: #F26269; 
   opacity: 0.7;
   z-index: 1;
 }
@@ -194,13 +196,13 @@ video {
 }
 
 .btn-secondary {
-  background-color: #cd9557;
-  border-color: #cd9557;
+  background-color: #F26269;
+  border-color: #F26269;
 }
 
 .btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
-  background-color: #ba7c37 !important;
-  border-color: #ba7c37 !important;
+  background-color: #F68255 !important;
+  border-color: #F68255 !important;
 }
 
 .input {
