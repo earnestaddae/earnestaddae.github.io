@@ -3,7 +3,7 @@
 [Redseacrons](http://www.redseacrons.com) is a safe, secure and friendly platform for women to share their concerns and receive help from other women who had similar concerns.
 
 ## Status
-We are actively developing the application for mobile phones
+We are actively developing the application for both Android & iOS
 
 ## About
 
