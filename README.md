@@ -4,7 +4,7 @@
 
 We strongly believe that nobody can tell their story best than the person who has first hand experience of what it feels to be diagnosed of cancer.
 
-Living with cancer is physically, emotionally, spiritually, and financially exhasuting. Therefore, with such a platform like Frikanda, cancer patients can ease their burden via fundraisers, blogging and personalized services.
+Living with cancer is physically, emotionally, spiritually, and financially exhausting. Therefore, with such a platform like Frikanda, cancer patients can ease their burden via fundraisers, blogging and personalized services.
 
 Frikanda is GoFundMe meets Substack, except for cancer patients. We are solving a problem that is obvious to everyone, but with a different pair of eyes.
 
